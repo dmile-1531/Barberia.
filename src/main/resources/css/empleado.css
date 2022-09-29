@@ -1,0 +1,55 @@
+*{
+    font-size: 20px;
+    
+
+
+}
+
+body {
+    background: rgb(120,65,72);
+    background: radial-gradient(circle, rgba(120,65,72,1) 0%, rgba(30,31,46,1) 90%);
+   padding: 15px;
+   border: 15px;
+   color: rgb(255, 255, 255);
+}
+
+h1{
+    color: rgb(221, 143, 54);
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+h2{
+    color: rgb(221, 143, 54);;
+}
+
+p{
+    color: rgb(133, 128, 128);
+}
+
+
+nav {
+    cursor: pointer;
+    padding: 40px;
+    color: rgba(0, 0, 0, 0.815);
+
+}
+
+a { 
+    color: aliceblue;
+    padding: 10px;
+    border-width: 10px;
+    
+}
+
+table {
+    color: darkgrey;
+}
+
+
+footer p {
+    font-size: 15px;
+
+}

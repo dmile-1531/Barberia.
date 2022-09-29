@@ -1,0 +1,49 @@
+*{
+    font-size: 20px;
+    color: rgb(169, 170, 172);
+    
+}
+
+body {
+    background: rgb(120,65,72);
+    background: radial-gradient(circle, rgba(120,65,72,1) 0%, rgba(30,31,46,1) 90%);
+    padding: 10px;
+    border: 10px;
+    color: rgb(247, 244, 241);
+}
+
+.logo_1{
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+    position: relative;
+}
+
+img{
+    width: 200px;
+    border-radius: 20%;
+    border: 5px solid rgb(221, 143, 54);
+    padding: 15px;
+    margin: 15px;
+}
+
+label{
+    color: rgb(221, 143, 54);
+
+}
+
+input{
+    color: rgb(0, 0, 0);
+    border-radius: 10%;
+}
+
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+    position: relative;
+    margin: 15px;
+    border: 20px;
+    padding: 15px;
+}
+
