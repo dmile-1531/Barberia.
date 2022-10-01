@@ -33,8 +33,8 @@
 #       set MAVEN_OPTS=-Xdebug -Xrunjdwp:transport=dt_socket,server=y,suspend=y,address=8000
 #   MAVEN_SKIP_RC - flag to disable loading of mavenrc files
 # ----------------------------------------------------------------------------
-https://github.com/springframeworkguru/spring-boot-postgress-example/blob/master/src/main/resources/application.properties
-https://github.com/fredy9034/registration-login-spring-boot-security-thymeleaf-hibernate-master
+#https://github.com/springframeworkguru/spring-boot-postgress-example/blob/master/src/main/resources/application.properties
+#https://github.com/fredy9034/registration-login-spring-boot-security-thymeleaf-hibernate-master
 
 if [ -z "$MAVEN_SKIP_RC" ] ; then
 
